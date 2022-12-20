@@ -1,0 +1,6 @@
+5
+New York|Denver|C
+New York|Dallas|T
+New York|Austin|T
+New York|Las Vegas|C
+New York|Chicago|T

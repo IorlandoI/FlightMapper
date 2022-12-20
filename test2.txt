@@ -1,0 +1,18 @@
+17
+Denver|Miami|2|21
+Denver|Las Vegas|3|10
+Denver|Austin|7|35
+Las Vegas|Los Angelas|4|12
+Los Angelas|Chicago|1|2
+Austin|Miami|4|17
+New Jersey|New York|1|24
+Maryland|Dallas|2|14
+Dallas|Orlando|3|42
+Orlando|Houston|1|63
+Houston|Dallas|1|16
+Maryland|Houston|3|22
+Maryland|Miami|1|24
+New York|Orlando|2|79
+Chicago|Austin|10|5
+New Jersey|Chicago|3|32
+Dallas|Austin|1|9
